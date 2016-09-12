@@ -1,3 +1,7 @@
+## Note
+
+This does not yet work.
+
 ## Supported tags and respective `Dockerfile` links
 
  - `v0.10.2-go-1.6.3` ([0.10.2/go-1.6.3/Dockerfile](https://github.com/polds/apex-docker/blob/a029e5af5f4d6f666d08dd6b15a69fa05081307d/0.10.2/go-1.6.3/Dockerfile))
